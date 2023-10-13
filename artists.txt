@@ -1,0 +1,55 @@
+ID: 569MMMRR_%
+Name: Alice Smith
+Address: London|England|UK
+Birthdate: 03-10-1988
+Bio: A talented artist with a passion for music. Also a CTO.
+Occupations: Painter, 
+Genres: Abstract, JAZZ, 
+Awards: 2020, Best Visual Artist Award, 
+
+ID: 569MMMRR_%
+Name: John Doe
+Address: Melbourne|Victoria|Australia
+Birthdate: 05-11-1980
+Bio: A talented artist with a passion for music. Also a traveller
+Occupations: Singer, Songwriter, 
+Genres: Pop, Jazz, 
+Awards: 2022, Best Song Written For Visual Media, 
+
+ID: 569MMMRR_%
+Name: John Doe
+Address: Melbourne|Victoria|Australia
+Birthdate: 05-11-1980
+Bio: A talented artist with a passion for music. Also a traveller
+Occupations: Singer, Songwriter, 
+Genres: Pop, Jazz, 
+Awards: 2022, Best Song Written For Visual Media, 
+
+
+ID: 569MMMPP_%
+Name: Chris Rock
+Address: LosAngeles|CA|USA
+Birthdate: 05-05-1989
+Bio: A talented artist with a passion for music. Also a CFO.
+Occupations: Dancer, 
+Genres: Contemporary, JAZZ, 
+Awards: 2020, Best Dance Performance Award, 
+
+ID: 569MMMLL_%
+Name: John Doe
+Address: NewYork|NY|USA
+Birthdate: 01-12-1990
+Bio: Talented musician. Talented musician. Talented musician. Talented musician. Talanted Musician
+Occupations: Singer, 
+Genres: Pop, Abstract, 
+Awards: 2022, Best New Artist Award, 
+
+ID: 569PPMLL_%
+Name: Ali John
+Address: London|England|UK
+Birthdate: 03-10-1988
+Bio: Passionate about abstract art. Passionate about abstract art. Passionate about abstract art
+Occupations: Painter, 
+Genres: Abstract, POP, 
+Awards: 2020, Best Visual Artist Award, 
+
